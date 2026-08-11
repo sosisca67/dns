@@ -1,5 +1,4 @@
 python dns-repair.py
-python dns-repair.py
 @echo off
 chcp 1251 >nul
 cls
